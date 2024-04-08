@@ -1,0 +1,6 @@
+[book]
+authors = ["insorker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NoteBook"
